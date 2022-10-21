@@ -1,0 +1,26 @@
+
+section#title , #cta{
+    background-color: rgb(245, 76, 104);
+} 
+
+.btn-2 {
+    background-color: rgb(245, 76, 104);
+}
+
+section i {
+    color: rgb(239, 129, 114);
+}
+
+#testimonials , #press {
+    background-color: rgb(239, 129, 114);
+
+}
+
+footer a {
+    color: inherit;
+    transition: 0.3s;
+}
+
+footer a:hover  {
+    color: rgb(245, 76, 104);
+}
